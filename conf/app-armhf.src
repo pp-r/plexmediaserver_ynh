@@ -1,5 +1,5 @@
-SOURCE_URL=https://github.com/YunoHost-Apps/plexmediaserver_ynh/releases/download/1.19.3.2843/plexmediaserver_1.19.3.2843-e3c1f7bcd_armhf.deb
-SOURCE_SUM=be7eac47bb99e1b34450be3471f33b876c692d7bb4f5eafda0e29f2ad9f7fd240478358a911a1dabbeabcc1da986c72a97c75b90b6657904f9319578c471915c
+SOURCE_URL=https://downloads.plex.tv/plex-media-server-new/1.31.3.6868-28fc46b27/debian/plexmediaserver_1.31.3.6868-28fc46b27_armhf.deb
+SOURCE_SUM=1ce30b689957337f5d4c80f53f8820031b8d306a21880a8768279857006603c283e283e8399a9870b1235c6dc67cdf316404a9c07b4d7af0c3547105562724fe
 SOURCE_SUM_PRG=sha512sum
 SOURCE_FORMAT=deb
 SOURCE_IN_SUBDIR=false
