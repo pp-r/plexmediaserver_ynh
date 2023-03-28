@@ -6,7 +6,7 @@
         "en": "PlexMediaServer package for YunoHost.",
         "fr": "PlexMediaServer pour YunoHost."
     },
-    "version": "1.19.3.2843",
+    "version": "1.31.3.6868",
     "url": "http://plex.tv/",
     "license": "non-free",
     "maintainer": {
@@ -19,7 +19,7 @@
     "multi_instance": false,
     "services": [
         "nginx",
-        "php5-fpm",
+        "php7.4-fpm",
         "mysql"
     ],
     "arguments": {
